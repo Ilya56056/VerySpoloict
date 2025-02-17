@@ -1,1 +1,1 @@
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Injected", Text = "VerySploict has been injected!"})
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Injected!", Text = "VerySploict has been injected!"})
